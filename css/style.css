@@ -1,0 +1,46 @@
+.top {
+  width: 1080px;
+}
+
+.h1 {
+  font-size: 18px;
+  color: rgb(0, 39, 126);
+  margin: 20px 0 0 23px;
+  float: left;
+}
+
+.nav ul {
+  text-align: right;
+  float: right;
+}
+
+.nav ul li {
+  display: inline-block;
+  margin: 20px 23px 0 0;
+}
+
+.nav ul a {
+  color: rgb(0, 39, 126);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.img {
+  width: 540px;
+  height: 360px;
+  position: relative;
+  top: 130px;
+  left: 400px;
+}
+
+.h2 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.blue {
+  width: 810px;
+  height: 150px;
+  background-color: rgb(0, 39, 126);
+}
